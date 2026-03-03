@@ -15,6 +15,7 @@ The cumulative requested slots can be seen below:
 | 5   | draft-liu-opsawg-ipfix-bgp-vpn | Yao Liu | 95 | Y | N | N  | - |
 | 5   | draft-liu-opsawg-ipfix-igp-algo | Yao Liu | 100 | Y | N | N  | - |
 | TBC | draft-mahesh-opsawg-veloce-yang/draft-boucadair-veloce-yang | Mahesh | TBC | Y | N | Y  | - |
+| 10  | draft-liu-opsawg-alt-mark-per-packet | Kefei Liu | TBC | Y | N | N  | - |
 
 ## Requests from the chairs
 
